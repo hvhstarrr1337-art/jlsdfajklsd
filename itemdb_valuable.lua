@@ -836,6 +836,28 @@ ItemDB.Items = {
         -- Epic
         { id = "iphone_16", name = "iPhone 16", type = "Phone", rarity = "Epic", fairPrice = 95000, spawnChance = 6, economyProfile = "normal", templateId = "18151141789" },
     },
+    Samsung = {
+        -- Common
+        { id = "galaxy_a14", name = "Galaxy A14", type = "Phone", rarity = "Common", fairPrice = 14000, spawnChance = 42, economyProfile = "safe", templateId = "18151141789" },
+        -- Uncommon
+        { id = "galaxy_a34", name = "Galaxy A34", type = "Phone", rarity = "Uncommon", fairPrice = 24000, spawnChance = 32, economyProfile = "safe", templateId = "18151141789" },
+        -- Rare
+        { id = "galaxy_a54", name = "Galaxy A54 5G", type = "Phone", rarity = "Rare", fairPrice = 35000, spawnChance = 22, economyProfile = "safe", templateId = "18151141789" },
+        -- Epic
+        { id = "galaxy_s23", name = "Galaxy S23+", type = "Phone", rarity = "Epic", fairPrice = 78000, spawnChance = 10, economyProfile = "normal", templateId = "18151141789" },
+        -- Legendary
+        { id = "galaxy_s24_ultra", name = "Galaxy S24 Ultra", type = "Phone", rarity = "Legendary", fairPrice = 138000, spawnChance = 3, economyProfile = "risky", templateId = "18151141789" },
+    },
+    Xiaomi = {
+        -- Common
+        { id = "poco_x5", name = "POCO X5 Pro", type = "Phone", rarity = "Common", fairPrice = 8500, spawnChance = 45, economyProfile = "safe", templateId = "18151141789" },
+        -- Uncommon
+        { id = "redmi_12", name = "Redmi 12", type = "Phone", rarity = "Uncommon", fairPrice = 12000, spawnChance = 35, economyProfile = "safe", templateId = "18151141789" },
+        -- Rare
+        { id = "redmi_note_13_pro", name = "Redmi Note 13 Pro+", type = "Phone", rarity = "Rare", fairPrice = 28000, spawnChance = 22, economyProfile = "safe", templateId = "18151141789" },
+        -- Epic
+        { id = "xiaomi_14_ultra", name = "Xiaomi 14 Ultra", type = "Phone", rarity = "Epic", fairPrice = 88000, spawnChance = 8, economyProfile = "normal", templateId = "18151141789" },
+    },
 }
 
 ItemDB.ByID = {}
