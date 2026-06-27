@@ -653,6 +653,20 @@ ItemDB.Items = {
         { id = "Lit_EnergyBack1", name = "Lit Energy Backpack", accessoryType = "Back", rarity = "Legendary", fairPrice = 0, spawnChance = 18, economyProfile = "normal" },
         { id = "Tsum_CaseRAR", name = "Tsum Collect X Swarovski", accessoryType = "LeftGrip", rarity = "Legendary", fairPrice = 0, spawnChance = 18, economyProfile = "normal" },
     },
+    Phone = {
+        { id = "iphone_17o", name = "iPhone 17 Pro Max Оранжевый", rarity = "Legendary", fairPrice = 165000, spawnChance = 2, economyProfile = "risky" },
+        { id = "iphone_17b", name = "iPhone 17 Pro Max Черный", rarity = "Legendary", fairPrice = 165000, spawnChance = 2, economyProfile = "risky" },
+        { id = "iphone_16", name = "iPhone 16", rarity = "Epic", fairPrice = 95000, spawnChance = 6, economyProfile = "normal" },
+        { id = "galaxy_s24_ultra", name = "Galaxy S24 Ultra", rarity = "Legendary", fairPrice = 138000, spawnChance = 3, economyProfile = "risky" },
+        { id = "galaxy_s23", name = "Galaxy S23+", rarity = "Epic", fairPrice = 78000, spawnChance = 10, economyProfile = "normal" },
+        { id = "galaxy_a54", name = "Galaxy A54 5G", rarity = "Rare", fairPrice = 35000, spawnChance = 22, economyProfile = "safe" },
+        { id = "galaxy_a34", name = "Galaxy A34", rarity = "Uncommon", fairPrice = 24000, spawnChance = 32, economyProfile = "safe" },
+        { id = "galaxy_a14", name = "Galaxy A14", rarity = "Common", fairPrice = 14000, spawnChance = 42, economyProfile = "safe" },
+        { id = "xiaomi_14_ultra", name = "Xiaomi 14 Ultra", rarity = "Epic", fairPrice = 88000, spawnChance = 8, economyProfile = "normal" },
+        { id = "redmi_note_13_pro", name = "Redmi Note 13 Pro+", rarity = "Rare", fairPrice = 28000, spawnChance = 22, economyProfile = "safe" },
+        { id = "redmi_12", name = "Redmi 12", rarity = "Uncommon", fairPrice = 12000, spawnChance = 35, economyProfile = "safe" },
+        { id = "poco_x5", name = "POCO X5 Pro", rarity = "Common", fairPrice = 8500, spawnChance = 45, economyProfile = "safe" },
+    },
 }
 
 return ItemDB
